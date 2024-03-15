@@ -23,7 +23,9 @@ h1{
     font-size: 40px;
 }
 p{
-    width: 80%;
+    width: 60%;
     margin: auto;
     text-align: justify;
+    font-size: 25px;
+    color: blue;
 }
